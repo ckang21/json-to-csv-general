@@ -1,0 +1,17 @@
+{
+    "url": "https://jsonplaceholder.typicode.com/users",
+    "method": "GET",
+    "headers": {},
+    "payload": {}
+  }
+  /*
+  {
+    "url": "https://example.com/api/search",
+    "method": "POST",
+    "headers": { "Authorization": "Bearer XYZ" },
+    "payload": {
+      "zipcode": "90210",
+      "last_name": "Smith"
+    }
+  }
+  */
